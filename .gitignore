@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+runtime/
+third_party/Umi-OCR/UmiOCR-data/runtime/
+third_party/Umi-OCR/UmiOCR-data/logs/
+*.exe
+*.zip
+*.7z

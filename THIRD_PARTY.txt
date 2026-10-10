@@ -1,0 +1,34 @@
+Umi-OCR Rapid 2.1.5, MIT (individual bundled dependencies keep their own licenses)
+https://github.com/hiroi-sora/Umi-OCR
+Downloaded official asset: Umi-OCR_Rapid_v2.1.5.7z.exe
+https://github.com/hiroi-sora/Umi-OCR/releases/download/v2.1.5/Umi-OCR_Rapid_v2.1.5.7z.exe
+SHA256: 659c55896c32a5e019dc7bde1713d0e5c73186a2c653bed84c4480fa1795b722
+
+Windows Capture 2.0.1, MIT
+https://github.com/NiiightmareXD/windows-capture
+Pillow 12.3.0, HPND
+https://github.com/python-pillow/Pillow
+NumPy 2.5.3, BSD-3-Clause
+https://github.com/numpy/numpy
+OpenCV Python 5.0.0.93, Apache-2.0
+https://github.com/opencv/opencv-python
+Python 3.12, PSF-2.0
+https://www.python.org/
+PyInstaller 6.22.3, GPL-2.0-or-later with bootloader exception
+https://github.com/pyinstaller/pyinstaller
+
+pynput 1.8.2, LGPL-3.0
+https://github.com/moses-palmer/pynput
+six 1.17.0, MIT
+https://github.com/benjaminp/six
+
+Umi-OCR service is configured only for the loopback address and port 12255.
+Bundled upstream licenses are under third_party/Umi-OCR and LICENSES/.
+
+Live selection uses existing Tk Canvas events.
+https://docs.python.org/3.12/library/tkinter.html
+
+pystray 0.19.5, LGPL-3.0-or-later
+https://github.com/moses-palmer/pystray
+https://pystray.readthedocs.io/en/latest/usage.html
+Tray operations use the official Windows backend.
